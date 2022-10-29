@@ -41,8 +41,7 @@ Proposed Languages ● Kotlin
 Proposed Development Software : ● Android Studio ● Windows Operating System ● Android Operating system
 
 FLOWCHART
-
-image
+https://github.com/SRIDHARAN1819/Grocery-app-sri/blob/main/1.png
 
 Expected Outcome ● Open the Grocery Maker App with a Green icon
 

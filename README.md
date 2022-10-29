@@ -277,6 +277,11 @@ Expected Outcome ● Open the Grocery Maker App with a Green icon
 
 ● A popup box appears after clicking on the entering button in the corner.
 
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/82379566/198836984-7e32b564-5085-4a4c-a99d-64e158a77d7a.png)
 
 
@@ -335,6 +340,11 @@ Expected Outcome ● Open the Grocery Maker App with a Green icon
 
 
 ● Fill the Grocery item, their Quantity, and total price in the field.
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/82379566/198837014-f1c9e9c5-fd42-4a91-8334-b5051b9d01c9.png)
 
 

@@ -99,7 +99,41 @@ Proposed Languages ● Kotlin
 Proposed Development Software : ● Android Studio ● Windows Operating System ● Android Operating system
 
 FLOWCHART
+
+
+
 ![image](https://user-images.githubusercontent.com/82379566/198836938-fc7b1511-134d-48d6-8467-8cf0fa24f009.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -181,6 +215,14 @@ Expected Outcome ● Open the Grocery Maker App with a Green icon
 
 
 
+
+
+
+
+
+
+
+
 ● The cart is empty! Let’s add a few groceries here.
 
 ![image](https://user-images.githubusercontent.com/82379566/198836967-9386c28b-ddd0-48d9-baae-5abc1b0a9d97.png)
@@ -219,9 +261,33 @@ Expected Outcome ● Open the Grocery Maker App with a Green icon
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ● A popup box appears after clicking on the entering button in the corner.
 
 ![image](https://user-images.githubusercontent.com/82379566/198836984-7e32b564-5085-4a4c-a99d-64e158a77d7a.png)
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -310,6 +376,41 @@ Expected Outcome ● Open the Grocery Maker App with a Green icon
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ● Your first Grocery item is on the list!
 
 ![image](https://user-images.githubusercontent.com/82379566/198837045-a5d0b4ff-1314-48df-ab38-1464a1fdac4b.png)
@@ -340,9 +441,63 @@ Expected Outcome ● Open the Grocery Maker App with a Green icon
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ● Check the subtraction logic by clicking on the DELETE button.
 
 ![image](https://user-images.githubusercontent.com/82379566/198837066-551b8bd6-6c32-4684-ae89-9f8834055a3c.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -430,9 +585,36 @@ Expected Outcome ● Open the Grocery Maker App with a Green icon
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ● Removing everything brings our Total Price back to 0
 
 ![image](https://user-images.githubusercontent.com/82379566/198837108-0c899f80-4d35-4128-bc91-5962cf1a3d74.png)
+
+
+
+
+
+
+
+
+
 
 
 

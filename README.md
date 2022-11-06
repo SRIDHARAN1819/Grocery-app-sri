@@ -678,7 +678,7 @@ URLs:
 
 GitHub URL : https://github.com/smartinternz02/SPSGP-77966-Virtual-Internship---Android-Application-Development-Using-Kotlin
 
-Video Demo URL : https://youtu.be/-yVGy0LpjVA
+Video Demo URL : https://www.youtube.com/watch?v=FrJBX-yqMnI
 
 Account IDs:
 
